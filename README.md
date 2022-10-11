@@ -1,5 +1,14 @@
 # Webpack configurado
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+Este el proyecto inicial para crear aplicaciones utilizando Wbpack.
 
-Pero esto lo veremos en la siguiente sección
+### Notas:
+Recuerden reconstruir los módulos de Node
+```
+npm install
+```
+Y para construir el build, recuerden:
+
+```
+npm run build
+```
